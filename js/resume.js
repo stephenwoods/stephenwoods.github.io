@@ -1,7 +1,6 @@
 /**
  * This function is fired when an element with the 'more-info' class is clicked.  This is to kick off the process to see if we need to pop a modal.
  */
-
 function MoreInfoClicked(clicked) {
   var id = null;
   if(clicked.target) {
