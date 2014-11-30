@@ -36,7 +36,7 @@ var stephenResume = function() {
 
   // Detailed information definitions for my modals.
   var resume = [];
-  resume['objective'] = new DetailedInformation('Objective','I strive to create and be part of an organization that is focused on a vision, lives for iteration and innovation, and empowers their employees to make decisions.');
+  resume['objective'] = new DetailedInformation('Objective','I am a software engineering manager interested in growing engineering deparments for small to mid-size companies.');
   resume['finance'] = new DetailedInformation('Personal Finance', 'I am a personal finance fanatic.  I can (and do!) spend hours learning about tax optimization, retirement accounts, intelligent investing, budget efficiency, etc.  I love to educate and assist my friends and family with their financial future.  I know this sounds crazy, but finance and numbers really excite me!');
   resume['uwl'] = new DetailedInformation('University of Wisconsin - La Crosse', 'Full disclosure here: I haven\'t completed my degree yet.  I haven\'t had a chance to complete any classes in awhile due to my rapidly increasing responsibilities at NativeX, however I still will complete the degree as time permits.');
   resume['uwltop'] = new DetailedInformation('University of Wisconsin - La Crosse', 'Full disclosure here: I haven\'t completed my degree yet.  I haven\'t had a chance to complete any classes in awhile due to my rapidly increasing responsibilities at NativeX, however I still will complete the degree as time permits.');
