@@ -54,7 +54,7 @@ var stephenResume = function() {
     $('.more-info').click(MoreInfoClicked);
     if('localStorage' in window && window['localStorage'] !== null) {
         if(!localStorage.getItem('viewed')) {
-          vex.dialog.alert(clickableMessage);
+          //vex.dialog.alert(clickableMessage);
           localStorage.setItem('viewed', true);
         }
     } else {
