@@ -13,8 +13,12 @@ hr {
   margin-right: 5px;
 }
 
-@media (min-width: 768px) {
-  .pad-top {
-    padding-top: 20px;
-  }
+/*@media (min-width: 768px) {
+.pad-top {
+  padding-top: 20px;
+}
+}*/
+
+.pad-top {
+  padding-top: 20px;
 }
